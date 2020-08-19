@@ -1,0 +1,9 @@
+syntax: regexp
+\.orig$
+\.orig\..*$
+\.chg\..*$
+\.rej$
+\.conflict\~$
+build
+dist
+nbproject/private
